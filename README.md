@@ -34,6 +34,7 @@ This visualization recreates the Minard’s map. Data provided is split into cit
 ## Built With
 
 * [Jupyter Notebook](jupyter.org)
+* [Using the R programming language in Jupyter Notebook](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/)
 
 ## License
 
